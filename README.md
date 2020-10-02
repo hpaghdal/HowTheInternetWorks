@@ -1,2 +1,2 @@
-# History Of The Internet Project
-#### Utsav Patel & Hiren Paghdal
+# How The Internet Works
+#### By: Hiren Paghdal
